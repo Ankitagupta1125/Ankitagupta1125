@@ -12,8 +12,8 @@
 - 📫 How to reach me **gankita639@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitagupta1125&show_icons=true&locale=en&layout=compact" alt="Ankitagupta1125" /></p>
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitagupta1125&show_icons=true&locale=en&layout=compact" alt="Ankitagupta1125" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankitagupta1125&show_icons=true&locale=en" alt="Ankitagupta1125" /></p>
 
