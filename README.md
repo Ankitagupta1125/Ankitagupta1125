@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning BUSINESS ANALYST
 
-- 💬 Ask me about Business Analyst
+- 💬 Ask me about Business Analyst,EXCEL,ACCOUNTANT,SQL
 
 - 📫 How to reach me **gankita639@gmail.com**
 
